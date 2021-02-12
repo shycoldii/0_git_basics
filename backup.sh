@@ -1,5 +1,5 @@
 #random comm
-name="/etc/hosts"
+name=/etc/hosts"
 n=0
 while read line; do
   IP=$(echo $line | awk '{ print $1 }')
