@@ -1,3 +1,4 @@
+#random comm
 name="/etc/hosts"
 n=0
 while read line; do
